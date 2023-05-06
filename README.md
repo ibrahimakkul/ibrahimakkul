@@ -21,6 +21,7 @@ Here are some ideas to get you started:
  
  
  Tecknologies:
+ 
  <img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/><img src="https://static-00.iconduck.com/assets.00/linkedin-emoji-512x512-mx3d67rm.png" alt="Linkedin" style="width:30px;"/>
 
 
