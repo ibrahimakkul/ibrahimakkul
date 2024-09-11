@@ -13,7 +13,7 @@ Hi there, I'm İbrahim
 
 
 
- <a href="https://www.linkedin.com/in/ibrahim-akkul-1a6075233/" rel="nofollow"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-3mmtnow6.png" alt="Linkedin" style="width:30px;"/></a>
+ <a href="https://www.linkedin.com/in/ibrahim-akkul-1a6075233/" rel="nofollow"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="Linkedin" style="width:30px;"/></a>
  
  
  Tecknologies:
