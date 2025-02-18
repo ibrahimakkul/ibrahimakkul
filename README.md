@@ -1,6 +1,6 @@
 ## Hi there, I'm İbrahim 👋  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&size=25&center=true&vCenter=true&width=550&lines=Node.js+%7C+React+%7C+MongoDB;AI+%7C+Prompt+Engineering+%7C+ComfyUI;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&size=25&center=true&vCenter=true&width=550&lines=Node.js+%7C+React+%7C+MongoDB;AI+%7C+Prompt+Engineering+%7C+ComfyUI;Full-Stack+Developer;Tech+Enthusiast" />
 </p>
 
 🔭 **I’m currently working on:**   
