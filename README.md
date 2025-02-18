@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F77B00&size=25&center=true&vCenter=true&width=550&lines=Node.js+%7C+React+%7C+MongoDB;AI+%7C+Prompt+Engineering+%7C+ComfyUI;Full-Stack+Developer;Tech+Enthusiast;Open+Source+Contributor" />
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/ibrahimakkul/ibrahimakkul/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 🔭 **I’m currently working on:**   
 💡 Backend and frontend development with JavaScript, Node.js and React. Looking at Ai prompt and Comfyui
 
