@@ -1,7 +1,7 @@
 ## Hi there, I'm İbrahim 👋  
 
 🔭 **I’m currently working on:**   
-💡 Backend & Frontend development with JavaScript, Node.js, and React.  
+💡 Backend and frontend development with JavaScript, Node.js and React. Looking at Ai prompt and Comfyui
 
 🌱 **I’m currently learning:**   
 🚀 Advanced API integrations, performance optimization, and security best practices.  
