@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40"/>
+  <img align="left" alt="GitHub" width="26px" src="https://gpt-logo.gptshunt.com/MDYzMDE2MjIwMDIyMTkwMjIz.webp" width="40" />
+  <img align="left" alt="GitHub" width="26px" src="https://r2.erweima.ai/i/31KbIZEcRDmNrjdDDsUynQ.png" width="40" />
 </p>
 
 ---
